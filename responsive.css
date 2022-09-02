@@ -1,0 +1,97 @@
+/*For Tablets*/
+@media all and (max-width: 1000px){
+	.tengku{
+		padding-left: 50px;
+	}
+	.my-portfolio{
+		padding-left: 350px;
+	}
+	.img1{
+		margin-left: 400px;
+	}
+	.tentang-body{
+		margin-left: 390px;
+	}
+	.hubungi{
+		margin-left: 390px;
+	}
+	.email{
+		margin-left: 250px;
+	}
+	.messege{
+		margin-left: 250px;
+	}
+	.kirim{
+		margin-left: 350px;
+	}
+}
+
+/*For Smartphone*/
+@media all and (max-width: 670px){
+	.navbar{
+		padding-top: 10px;
+	}
+	.logo{
+		font-size: 20px;
+		letter-spacing: 3px;
+		top: 10px;
+	}
+	.tentang-saya{
+		font-size: 20px;
+		margin-left: 100px
+	}
+	.proyek-navbar{
+		font-size: 20px;
+		margin-left: 275px;
+	}
+	.hubungi-navbar{
+		font-size: 20px;
+		margin-left: 275px;
+	}
+	.tengku{
+		font-size: 30px;
+	}
+	.my-portfolio{
+		font-size: 30px;
+		padding-left: 200px;
+	}
+	.img1{
+		margin-left: 200px;
+	}
+	.tentang-body{
+		font-size: 25px;
+		margin-left: 200px;
+	}
+	.img2{
+		word-wrap: break-word;
+	}
+	.hubungi-saya{
+		margin-top:400px;
+		height: 300px;
+	}
+	.hubungi{
+		font-size: 25px;
+		margin-left: 200px;
+	}
+	.email{
+		width: 250px;
+		margin-left: 150px;
+	}
+	.messege{
+		width: 250px;
+		margin-left: 150px;
+		margin-top: 0px;
+	}
+	.kirim{
+		width: 150px;
+		margin-left: 200px;
+	}
+	.footer{
+		padding-top: 100px;
+	}
+	.logo-footer{
+		font-size: 35px;
+		margin-bottom: 900px;
+	}
+}
+

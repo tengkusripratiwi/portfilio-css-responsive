@@ -1,0 +1,164 @@
+.header{
+	width: 100%;
+	height: 100px;
+	background: #333;
+}
+.navbar{
+	color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.logo{
+	font-size: 50px;
+	font-weight: bold;
+	font-family: "Times New Roman";
+	padding-left: 10px;
+	text-decoration: none;
+	letter-spacing: 9px;
+	color: white;
+}
+.tentang-saya{
+	text-decoration: none;
+	font-size: 20px;
+	padding-left: 100px;
+	color: white;
+}
+.proyek-navbar{
+	text-decoration: none;
+	font-size: 20px;
+	padding-left: 50px;
+	color: white;
+}
+.hubungi-navbar{
+	text-decoration: none; 
+	font-size: 20px;
+	padding-left: 50px;
+	color: white;
+}
+
+.body{
+	width: 100%;
+	height: 900px;
+	background: green;
+
+}
+.content{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 50px;
+}
+.tengku{
+	font-size: 60px;
+	padding-left: 270px;
+	letter-spacing: 10px;
+	font-weight: bold;
+}
+.my-portfolio{
+	font-size: 40px;
+	padding-left: 500px;
+}
+.img1{
+	width: 200px;
+	border: 2px solid #666;
+	border-radius: 25px;
+	margin-left: 550px;
+}
+.content-body{
+	width: 100%;
+	height: 200px;
+	background: #999;
+}
+.tentang-body{
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 540px;
+	padding-bottom: 10px;
+}
+.detail{
+	text-align: center;
+}
+.proyek-contoh{
+	width: 100%;
+	height: 800px;
+	text-align: center;
+	padding-top: 20px;
+	background: white;
+}
+.proyek-teks{
+	font-size: 30px;
+	font-weight: bold;
+}
+.img2{
+	width: 300px;
+}
+.img3{
+	width: 300px;
+}
+.img4{
+	width: 300px;
+}
+.hubungi-saya{
+	width: 100%;
+	height: 400px;
+	background: #999;
+	padding-top: 20px;
+}
+.hubungi{
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 550px;
+}
+.email{
+	width: 500px;
+	height: 40px;
+	margin-left: 400px;
+	border-radius: 9px;
+}
+.messege{
+	width: 500px;
+	height: 100px;
+	margin-left: 400px;
+	border-radius: 9px;
+	margin-top: 10px;
+	
+}
+.kirim{
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	margin-left: 500px;
+	background: rgba(255, 255, 128, .5);
+	cursor: pointer;
+}
+.footer{
+	width: 100%;
+	height: 150px;
+	background: #505050;
+	padding-top: 30px;
+}
+.logo-footer{
+	font-size: 40px;
+	margin-left: 100px;
+	color: white;
+}
+.navbarFooter{
+	float: right;
+	margin-right: 50px;
+}
+.navbar-footer{
+	list-style-type: none;
+}
+.tentang-footer{
+	text-decoration: none;
+	color: white;
+	margin-bottom: 200px;
+}
+.proyek-footer{
+	text-decoration: none;
+	color: white;
+}
+.hubungi-footer{
+	text-decoration: none;
+	color: white;
+}
